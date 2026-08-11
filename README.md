@@ -7,7 +7,10 @@ My journey through the 100 Days of Code, the popular course by Dr. Angela Yu. Do
 | 2 | / | x |
 | 3 | / | x |
 | 4 | / | x |
-| 5 | x | x |
-| 6 | x | x |
-| 7 | x | x |
+| 5 | /* | x |
+| 6 | /* | x |
+| 7 | /* | x |
 | 8 | x | x |
+| 9 | x | x |
+| 10 | x | x |
+| 11 | x | x |
